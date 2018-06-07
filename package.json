@@ -1,0 +1,22 @@
+{
+  "name": "memeDb",
+  "version": "1.0.0",
+  "description": "simple app working with the fs",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "mv": "^2.1.1",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexxIV/memeDb"
+  },
+  "author": "AI",
+  "license": "MIT"
+}
